@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>specific_field</name>
+        <rest_message_function display_value="GetIPInfo">e5d7706897bbe150c24631b11153afc5</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-29 15:52:58</sys_created_on>
+        <sys_id>befef06097fbe150c24631b11153af0a</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>specific_field</sys_name>
+        <sys_package display_value="IPLookup" source="x_1066365_iplookup">498734a497bbe150c24631b11153afae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">498734a497bbe150c24631b11153afae</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_befef06097fbe150c24631b11153af0a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-29 15:56:16</sys_updated_on>
+        <type>string</type>
+        <value>city</value>
+    </sys_rest_message_fn_parameters>
+</record_update>
